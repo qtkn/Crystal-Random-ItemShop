@@ -1,0 +1,50 @@
+{
+  "daily1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_010_Athena_Commando_M"
+    ],
+    "price": 1742
+  },
+  "daily2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_011_Athena_Commando_M"
+    ],
+    "price": 1596
+  },
+  "daily3": {
+    "itemGrants": [
+      "AthenaCharacter:CID_011_Athena_Commando_M"
+    ],
+    "price": 371
+  },
+  "daily4": {
+    "itemGrants": [
+      "AthenaCharacter:CID_010_Athena_Commando_M"
+    ],
+    "price": 1120
+  },
+  "daily5": {
+    "itemGrants": [
+      "AthenaCharacter:CID_011_Athena_Commando_M"
+    ],
+    "price": 766
+  },
+  "daily6": {
+    "itemGrants": [
+      "AthenaCharacter:CID_010_Athena_Commando_M"
+    ],
+    "price": 877
+  },
+  "featured1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_010_Athena_Commando_M"
+    ],
+    "price": 1998
+  },
+  "featured2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_011_Athena_Commando_M"
+    ],
+    "price": 382
+  }
+}
