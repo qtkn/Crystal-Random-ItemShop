@@ -4,6 +4,8 @@ Crystal Random ItemShop is a tool to generate a random item shop for a Fortnite.
 
 ## Installation
 1 - Download Nodejs From https://nodejs.org/en/download/current
+
+
 2 - Run install_packages
 
 ## Configuration
